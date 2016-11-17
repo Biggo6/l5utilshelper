@@ -1,0 +1,16 @@
+{
+    "name": "biggo/l5utilshelper",
+    "description": "a laravel 5 utils helper class that simplies some hard talks during project development",
+    "require": {
+        "php": "5.6"
+    },
+    "keywords": ["laravel", "utils", "helper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joram Kimata",
+            "email": "joramkimata@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
